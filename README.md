@@ -2,7 +2,7 @@
 
 A **Calculadora Fatorial** é uma aplicação simples desenvolvida em Python utilizando a biblioteca Tkinter. Esta ferramenta permite que os usuários calculem o fatorial de um número inteiro não negativo de forma rápida e intuitiva.
 
-![Imagem da Calculadora Fatorial](URL_DA_IMAGEM_AQUI)  <!-- Substitua pelo link da sua imagem -->
+![Imagem da Calculadora Fatorial](img-calculadora.png)  <!-- Substitua pelo link da sua imagem -->
 
 ## Funcionalidades
 
@@ -25,7 +25,7 @@ A **Calculadora Fatorial** é uma aplicação simples desenvolvida em Python uti
 
 ## Exemplo
 
-- Para a entrada `5`, o resultado exibido será: `O fatorial de 5 é 120`.
+- Para a entrada `6`, o resultado exibido será: `O fatorial de 6 é 720`.
 
 ## Licença
 
